@@ -1,5 +1,6 @@
 ### Hi there 👋
-:smile:
+:smile: :rocket: 
+/play tada
 <!--
 **AbdelrahmanHamdy1996/AbdelrahmanHamdy1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
