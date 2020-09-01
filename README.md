@@ -1,5 +1,10 @@
-# Hello, There!<img src="https://github.com/AbdelrahmanHamdy1996/AbdelrahmanHamdy1996/blob/master/wave.gif" width="30px">
-My name is Abdelrahman Hamdy.
+# Hey, there!<img src="https://github.com/AbdelrahmanHamdy1996/AbdelrahmanHamdy1996/blob/master/wave.gif" width="30px">
+<img align="right" width="100" height="100" src="octo.gif">
+My name is Abdelrahman Hamdy and I am a software developer. I'm from Egypt. i have a passion for learning and sharing my knowledge. currently, i improve my skills to be a data scientist in the field of physics. 2019 i have found my small company called Orion technology working in Web development and ERP system.__Apart from coding i have great passion in many certain things such as studying mathematics, reading etc... .__
+
+## :books: Math person 
+## :telescope: physics 
+## :space_invader: 3D Molding & Printing 
 ## :wrench: Technologies & Tools <br>
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
