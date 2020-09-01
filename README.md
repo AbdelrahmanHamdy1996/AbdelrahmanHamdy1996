@@ -1,4 +1,5 @@
 # Hey, there!<img src="https://github.com/AbdelrahmanHamdy1996/AbdelrahmanHamdy1996/blob/master/wave.gif" width="30px">
+
 <img align="right" width="100" height="100" src="https://github.com/AbdelrahmanHamdy1996/AbdelrahmanHamdy1996/blob/master/octo.gif">
 
 <p> <b>
@@ -6,10 +7,18 @@ My name is Abdelrahman Hamdy and I am a software developer. I'm from Egypt. i ha
 </b> </p>
 
 ## :books: Math person 
+
+<p> <b>
 My passion for mathematics is unlimited, I self-studying mathematics as a journey to take GRE in Math or double major in physics and mathematics.
+</b></p>
+
 ## :telescope: physics
+<p> <b>
 My ultimate goal in my life study and obtain a PhD in physics and use my skill in coding and data science in research and discover new things form data coming from telescopes and large hydron collider at CERN.
-## :space_invader: 3D Molding & Printing 
+</b> </p>
+
+## :space_invader: 3D Molding & Printing
+
 ## :wrench: Technologies & Tools <br>
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
