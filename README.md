@@ -6,7 +6,7 @@ My name is Abdelrahman Hamdy and I am a software developer. I'm from Egypt. i ha
 </b> </p>
 
 ## :books: Math person 
-
+My passion for mathematics is unlimited, I self-studying mathematics as a journey to take GRE in math or double major in physics and mathematics.
 ## :telescope: physics 
 ## :space_invader: 3D Molding & Printing 
 ## :wrench: Technologies & Tools <br>
