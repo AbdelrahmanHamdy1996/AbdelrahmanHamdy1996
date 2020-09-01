@@ -19,6 +19,10 @@ My ultimate goal in my life study and obtain a PhD in physics and use my skill i
 
 ## :space_invader: 3D Molding & Printing
 
+<p> <b>
+I working in Blender software for modeling object for 3D printing.
+</b> </p>
+
 ## :wrench: Technologies & Tools <br>
 
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=2bbc8a)
